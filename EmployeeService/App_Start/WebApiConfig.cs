@@ -13,7 +13,7 @@ namespace EmployeeService
         {
             // Web API configuration and services
 
-            // Web API routes
+            // Web API route
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
